@@ -1,0 +1,51 @@
+h1,p{
+	color: white;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+.md .navbar{
+	background-color: crimson;
+	box-shadow: none;
+}
+
+
+.app{
+	background-color: crimson;
+}
+
+.center-block{
+	margin: 0 auto;
+	display:block;
+}
+
+.img-responsive{
+	max-width: 100%;
+}
+
+
+.card-footer::before{
+	background-color: transparent;
+}
+
+.md .card{
+	background-color: transparent;
+	box-shadow: none;
+}
+
+
+.title{
+	color: crimson;
+	font-weight: 600;
+}
+
+.boton{
+	background-color: crimson !important;
+	color: white;
+}
+
+.center{
+	text-align: center;
+	font-size: 50px;
+}
+
+
+
